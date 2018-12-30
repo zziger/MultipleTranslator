@@ -1,0 +1,11 @@
+{
+  "name": "words",
+  "version": "1.0.0",
+  "dependencies": {
+    "emoji-flags": "^1.2.0",
+    "fs-extra": "^7.0.1",
+    "google-translate-api": "^2.3.0",
+    "readline-sync": "^1.4.9",
+    "translate": "^1.0.3"
+  }
+}
